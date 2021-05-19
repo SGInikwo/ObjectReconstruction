@@ -1,0 +1,424 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="objRecon"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;CMake Files\..\;CMake Files\..\..\;CMake Files\..\..\..\;CMake Files\..\..\..\..\;CMake Files\..\..\..\..\usr\;CMake Files\..\..\..\..\usr\local\;CMake Files\..\..\..\..\usr\local\Cellar\;CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\;CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\;CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\;CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\OpenCV\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\;CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\;CMake Files\..\..\..\..\usr\local\share\;CMake Files\..\..\..\..\usr\local\share\pcl-1.11\;CMake Files\..\..\..\..\usr\local\share\pcl-1.11\Modules\;CMake Files\..\..\..\..\usr\local\opt\;CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\;CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\lib\;CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\lib\cmake\;CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\lib\cmake\vtk-8.2\;CMake Files\..\..\..\..\usr\local\lib\;CMake Files\..\..\..\..\usr\local\lib\cmake\;CMake Files\..\..\..\..\usr\local\lib\cmake\glew\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="objRecon">
+				<Option output="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/objRecon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DvtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2)"/>
+					<Add option="-DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add option="-D_FILE_OFFSET_BITS=64"/>
+					<Add option="-DWXUSINGDLL"/>
+					<Add option="-D__WXMAC__"/>
+					<Add option="-D__WXOSX__"/>
+					<Add option="-D__WXOSX_COCOA__"/>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DDISABLE_LIBUSB_1_0"/>
+					<Add directory="/usr/local/Cellar/llvm/11.1.0/include"/>
+					<Add directory="/usr/local/Cellar/vtk@8.2/8.2.0_2/include/vtk-8.2"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/lib/wx/include/osx_cocoa-unicode-3.0"/>
+					<Add directory="/usr/local/include/wx-3.0"/>
+					<Add directory="/usr/local/include/pcl-1.11"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/include/pcl-1.11/pcl"/>
+					<Add directory="/usr/local/Cellar/opencv@3/3.4.13_2/include"/>
+					<Add directory="/usr/local/Cellar/opencv@3/3.4.13_2/include/opencv"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 objRecon"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="objRecon/fast">
+				<Option output="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/objRecon" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add option="-DvtkRenderingContext2D_AUTOINIT=1(vtkRenderingContextOpenGL2)"/>
+					<Add option="-DvtkRenderingCore_AUTOINIT=3(vtkInteractionStyle,vtkRenderingFreeType,vtkRenderingOpenGL2)"/>
+					<Add option="-Dqh_QHpointer"/>
+					<Add option="-D_FILE_OFFSET_BITS=64"/>
+					<Add option="-DWXUSINGDLL"/>
+					<Add option="-D__WXMAC__"/>
+					<Add option="-D__WXOSX__"/>
+					<Add option="-D__WXOSX_COCOA__"/>
+					<Add option="-DDISABLE_PCAP"/>
+					<Add option="-DDISABLE_PNG"/>
+					<Add option="-DDISABLE_LIBUSB_1_0"/>
+					<Add directory="/usr/local/Cellar/llvm/11.1.0/include"/>
+					<Add directory="/usr/local/Cellar/vtk@8.2/8.2.0_2/include/vtk-8.2"/>
+					<Add directory="/usr/local/include"/>
+					<Add directory="/usr/local/lib/wx/include/osx_cocoa-unicode-3.0"/>
+					<Add directory="/usr/local/include/wx-3.0"/>
+					<Add directory="/usr/local/include/pcl-1.11"/>
+					<Add directory="/usr/local/include/eigen3"/>
+					<Add directory="/usr/local/include/pcl-1.11/pcl"/>
+					<Add directory="/usr/local/Cellar/opencv@3/3.4.13_2/include"/>
+					<Add directory="/usr/local/Cellar/opencv@3/3.4.13_2/include/opencv"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/12.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 objRecon/fast"/>
+					<CompileFile command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j8 -f &quot;/Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/AdjustBox.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/AdjustBox.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/MarchingCubes.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/MarchingCubes.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/Rec3D.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/Rec3D.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/bbox.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/bbox.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/camera.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/camera.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/planesweep.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/planesweep.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/pointcloud.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/pointcloud.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/rApp.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/rApp.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/rMain.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/rMain.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/tvl1.cpp">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/tvl1.h">
+			<Option target="objRecon"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/opencv@3/3.4.13_2/share/OpenCV/OpenCVConfig-version.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/opencv@3/3.4.13_2/share/OpenCV/OpenCVConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/opencv@3/3.4.13_2/share/OpenCV/OpenCVModules-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/opencv@3/3.4.13_2/share/OpenCV/OpenCVModules.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\opencv@3\3.4.13_2\share\OpenCV\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/UseVTK.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/VTKTargets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/VTKTargets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/vtkModuleAPI.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkChartsCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonColor.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonComputationalGeometry.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonDataModel.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonExecutionModel.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonMath.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonMisc.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonSystem.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkCommonTransforms.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkDICOMParser.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersExtraction.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersGeneral.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersGeometry.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersHybrid.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersModeling.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersSources.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkFiltersStatistics.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOGeometry.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOImage.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOLegacy.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOPLY.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOXML.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkIOXMLParser.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingColor.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingFourier.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingGeneral.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingHybrid.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkImagingSources.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkInfovisCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkInteractionStyle.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkInteractionWidgets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkMetaIO.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingAnnotation.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingContext2D.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingContextOpenGL2.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingFreeType.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingLOD.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingOpenGL2.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkRenderingVolume.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkViewsContext2D.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkViewsCore.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkdoubleconversion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkeigen.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkexpat.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkfreetype.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkglew.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkjpeg.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkkwiml.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtklz4.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtklzma.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkpng.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtksys.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtktiff.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkutf8.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/Cellar/vtk@8.2/8.2.0_2/lib/cmake/vtk-8.2/Modules/vtkzlib.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\Cellar\vtk@8.2\8.2.0_2\lib\cmake\vtk-8.2\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/share/pcl-1.11/PCLConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\pcl-1.11\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/share/pcl-1.11/PCLConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\pcl-1.11\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/share/pcl-1.11/Modules/FindEigen.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\pcl-1.11\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/share/pcl-1.11/Modules/FindFLANN.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\pcl-1.11\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/share/pcl-1.11/Modules/FindQhull.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\share\pcl-1.11\Modules\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/opt/vtk@8.2/lib/cmake/vtk-8.2/VTKConfig.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/opt/vtk@8.2/lib/cmake/vtk-8.2/VTKConfigVersion.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\opt\vtk@8.2\lib\cmake\vtk-8.2\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/lib/cmake/glew/CopyImportedTargetProperties.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glew\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/lib/cmake/glew/glew-config.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glew\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/lib/cmake/glew/glew-targets-release.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glew\"/>
+		</Unit>
+		<Unit filename="/Users/macbook2015/CLionProjects/objRecon/../../../../usr/local/lib/cmake/glew/glew-targets.cmake">
+			<Option virtualFolder="CMake Files\..\..\..\..\usr\local\lib\cmake\glew\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

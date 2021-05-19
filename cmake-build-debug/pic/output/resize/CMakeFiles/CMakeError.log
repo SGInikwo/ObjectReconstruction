@@ -1,0 +1,1872 @@
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3e191/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3e191.dir/build.make CMakeFiles/cmTC_3e191.dir/build
+Building C object CMakeFiles/cmTC_3e191.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_3e191.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3e191.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_3e191/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_68f9c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_68f9c.dir/build.make CMakeFiles/cmTC_68f9c.dir/build
+Building CXX object CMakeFiles/cmTC_68f9c.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_68f9c.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_68f9c.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_68f9c/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b4555/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b4555.dir/build.make CMakeFiles/cmTC_b4555.dir/build
+Building C object CMakeFiles/cmTC_b4555.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_b4555.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_b4555.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_b4555/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_56ed9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_56ed9.dir/build.make CMakeFiles/cmTC_56ed9.dir/build
+Building CXX object CMakeFiles/cmTC_56ed9.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_56ed9.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_56ed9.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_56ed9/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_61151/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_61151.dir/build.make CMakeFiles/cmTC_61151.dir/build
+Building C object CMakeFiles/cmTC_61151.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_61151.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_61151.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_61151/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cf1a4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_cf1a4.dir/build.make CMakeFiles/cmTC_cf1a4.dir/build
+Building CXX object CMakeFiles/cmTC_cf1a4.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_cf1a4.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_cf1a4.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_cf1a4/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_634c0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_634c0.dir/build.make CMakeFiles/cmTC_634c0.dir/build
+Building C object CMakeFiles/cmTC_634c0.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_634c0.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_634c0.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_634c0/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f720a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f720a.dir/build.make CMakeFiles/cmTC_f720a.dir/build
+Building CXX object CMakeFiles/cmTC_f720a.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f720a.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f720a.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_f720a/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5950e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5950e.dir/build.make CMakeFiles/cmTC_5950e.dir/build
+Building C object CMakeFiles/cmTC_5950e.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_5950e.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_5950e.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_5950e/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_931a4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_931a4.dir/build.make CMakeFiles/cmTC_931a4.dir/build
+Building CXX object CMakeFiles/cmTC_931a4.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_931a4.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_931a4.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_931a4/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_60b8f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_60b8f.dir/build.make CMakeFiles/cmTC_60b8f.dir/build
+Building C object CMakeFiles/cmTC_60b8f.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_60b8f.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_60b8f.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_60b8f/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3502c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3502c.dir/build.make CMakeFiles/cmTC_3502c.dir/build
+Building CXX object CMakeFiles/cmTC_3502c.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_3502c.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3502c.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_3502c/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_68f06/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_68f06.dir/build.make CMakeFiles/cmTC_68f06.dir/build
+Building C object CMakeFiles/cmTC_68f06.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_68f06.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_68f06.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_68f06/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_acf1b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_acf1b.dir/build.make CMakeFiles/cmTC_acf1b.dir/build
+Building CXX object CMakeFiles/cmTC_acf1b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_acf1b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_acf1b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_acf1b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_aa089/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_aa089.dir/build.make CMakeFiles/cmTC_aa089.dir/build
+Building C object CMakeFiles/cmTC_aa089.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_aa089.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_aa089.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_aa089/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1daad/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1daad.dir/build.make CMakeFiles/cmTC_1daad.dir/build
+Building CXX object CMakeFiles/cmTC_1daad.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_1daad.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_1daad.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_1daad/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8b6ae/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8b6ae.dir/build.make CMakeFiles/cmTC_8b6ae.dir/build
+Building C object CMakeFiles/cmTC_8b6ae.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_8b6ae.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_8b6ae.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_8b6ae/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f158b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f158b.dir/build.make CMakeFiles/cmTC_f158b.dir/build
+Building CXX object CMakeFiles/cmTC_f158b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f158b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f158b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_f158b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_56711/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_56711.dir/build.make CMakeFiles/cmTC_56711.dir/build
+Building C object CMakeFiles/cmTC_56711.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_56711.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_56711.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_56711/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_da251/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_da251.dir/build.make CMakeFiles/cmTC_da251.dir/build
+Building CXX object CMakeFiles/cmTC_da251.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_da251.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_da251.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_da251/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3aa43/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3aa43.dir/build.make CMakeFiles/cmTC_3aa43.dir/build
+Building C object CMakeFiles/cmTC_3aa43.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_3aa43.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3aa43.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_3aa43/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4c780/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_4c780.dir/build.make CMakeFiles/cmTC_4c780.dir/build
+Building CXX object CMakeFiles/cmTC_4c780.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_4c780.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4c780.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_4c780/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8f658/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8f658.dir/build.make CMakeFiles/cmTC_8f658.dir/build
+Building C object CMakeFiles/cmTC_8f658.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_8f658.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_8f658.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_8f658/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fab3c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fab3c.dir/build.make CMakeFiles/cmTC_fab3c.dir/build
+Building CXX object CMakeFiles/cmTC_fab3c.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_fab3c.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fab3c.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_fab3c/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_21e00/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_21e00.dir/build.make CMakeFiles/cmTC_21e00.dir/build
+Building C object CMakeFiles/cmTC_21e00.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_21e00.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_21e00.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_21e00/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_93219/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_93219.dir/build.make CMakeFiles/cmTC_93219.dir/build
+Building CXX object CMakeFiles/cmTC_93219.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_93219.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_93219.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_93219/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_536d7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_536d7.dir/build.make CMakeFiles/cmTC_536d7.dir/build
+Building C object CMakeFiles/cmTC_536d7.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_536d7.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_536d7.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_536d7/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_781e0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_781e0.dir/build.make CMakeFiles/cmTC_781e0.dir/build
+Building CXX object CMakeFiles/cmTC_781e0.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_781e0.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_781e0.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_781e0/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e0420/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e0420.dir/build.make CMakeFiles/cmTC_e0420.dir/build
+Building C object CMakeFiles/cmTC_e0420.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_e0420.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_e0420.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_e0420/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0db11/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_0db11.dir/build.make CMakeFiles/cmTC_0db11.dir/build
+Building CXX object CMakeFiles/cmTC_0db11.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_0db11.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_0db11.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_0db11/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1f1b6/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1f1b6.dir/build.make CMakeFiles/cmTC_1f1b6.dir/build
+Building C object CMakeFiles/cmTC_1f1b6.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_1f1b6.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_1f1b6.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_1f1b6/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f39d3/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f39d3.dir/build.make CMakeFiles/cmTC_f39d3.dir/build
+Building CXX object CMakeFiles/cmTC_f39d3.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f39d3.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f39d3.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_f39d3/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_58c5a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_58c5a.dir/build.make CMakeFiles/cmTC_58c5a.dir/build
+Building C object CMakeFiles/cmTC_58c5a.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_58c5a.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_58c5a.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_58c5a/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a40e3/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a40e3.dir/build.make CMakeFiles/cmTC_a40e3.dir/build
+Building CXX object CMakeFiles/cmTC_a40e3.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a40e3.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_a40e3.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_a40e3/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0720b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_0720b.dir/build.make CMakeFiles/cmTC_0720b.dir/build
+Building C object CMakeFiles/cmTC_0720b.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_0720b.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_0720b.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_0720b/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1ecdb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1ecdb.dir/build.make CMakeFiles/cmTC_1ecdb.dir/build
+Building CXX object CMakeFiles/cmTC_1ecdb.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_1ecdb.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_1ecdb.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_1ecdb/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e38bb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e38bb.dir/build.make CMakeFiles/cmTC_e38bb.dir/build
+Building C object CMakeFiles/cmTC_e38bb.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_e38bb.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_e38bb.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_e38bb/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5791c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5791c.dir/build.make CMakeFiles/cmTC_5791c.dir/build
+Building CXX object CMakeFiles/cmTC_5791c.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_5791c.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_5791c.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_5791c/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b62eb/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b62eb.dir/build.make CMakeFiles/cmTC_b62eb.dir/build
+Building C object CMakeFiles/cmTC_b62eb.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_b62eb.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_b62eb.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_b62eb/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f4835/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f4835.dir/build.make CMakeFiles/cmTC_f4835.dir/build
+Building CXX object CMakeFiles/cmTC_f4835.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f4835.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f4835.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_f4835/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d132b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d132b.dir/build.make CMakeFiles/cmTC_d132b.dir/build
+Building C object CMakeFiles/cmTC_d132b.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d132b.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d132b.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d132b/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_04f62/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_04f62.dir/build.make CMakeFiles/cmTC_04f62.dir/build
+Building CXX object CMakeFiles/cmTC_04f62.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_04f62.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_04f62.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_04f62/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d6d63/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d6d63.dir/build.make CMakeFiles/cmTC_d6d63.dir/build
+Building C object CMakeFiles/cmTC_d6d63.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d6d63.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d6d63.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d6d63/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1e3c7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1e3c7.dir/build.make CMakeFiles/cmTC_1e3c7.dir/build
+Building CXX object CMakeFiles/cmTC_1e3c7.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_1e3c7.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_1e3c7.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_1e3c7/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03425/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_03425.dir/build.make CMakeFiles/cmTC_03425.dir/build
+Building C object CMakeFiles/cmTC_03425.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_03425.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_03425.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_03425/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_05635/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_05635.dir/build.make CMakeFiles/cmTC_05635.dir/build
+Building CXX object CMakeFiles/cmTC_05635.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_05635.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_05635.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_05635/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d691a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d691a.dir/build.make CMakeFiles/cmTC_d691a.dir/build
+Building C object CMakeFiles/cmTC_d691a.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d691a.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d691a.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d691a/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a34e3/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a34e3.dir/build.make CMakeFiles/cmTC_a34e3.dir/build
+Building CXX object CMakeFiles/cmTC_a34e3.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a34e3.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a34e3.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_a34e3/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d0121/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d0121.dir/build.make CMakeFiles/cmTC_d0121.dir/build
+Building C object CMakeFiles/cmTC_d0121.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d0121.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d0121.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d0121/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e53e5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e53e5.dir/build.make CMakeFiles/cmTC_e53e5.dir/build
+Building CXX object CMakeFiles/cmTC_e53e5.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_e53e5.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e53e5.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_e53e5/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_594db/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_594db.dir/build.make CMakeFiles/cmTC_594db.dir/build
+Building C object CMakeFiles/cmTC_594db.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_594db.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_594db.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_594db/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9eb45/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9eb45.dir/build.make CMakeFiles/cmTC_9eb45.dir/build
+Building CXX object CMakeFiles/cmTC_9eb45.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_9eb45.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9eb45.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_9eb45/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b3b1d/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b3b1d.dir/build.make CMakeFiles/cmTC_b3b1d.dir/build
+Building C object CMakeFiles/cmTC_b3b1d.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_b3b1d.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_b3b1d.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_b3b1d/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8eed1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8eed1.dir/build.make CMakeFiles/cmTC_8eed1.dir/build
+Building CXX object CMakeFiles/cmTC_8eed1.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_8eed1.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_8eed1.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_8eed1/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d2c63/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d2c63.dir/build.make CMakeFiles/cmTC_d2c63.dir/build
+Building C object CMakeFiles/cmTC_d2c63.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d2c63.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d2c63.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d2c63/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_85676/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_85676.dir/build.make CMakeFiles/cmTC_85676.dir/build
+Building CXX object CMakeFiles/cmTC_85676.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_85676.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_85676.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_85676/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_25cf7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_25cf7.dir/build.make CMakeFiles/cmTC_25cf7.dir/build
+Building C object CMakeFiles/cmTC_25cf7.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_25cf7.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_25cf7.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_25cf7/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_46150/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_46150.dir/build.make CMakeFiles/cmTC_46150.dir/build
+Building CXX object CMakeFiles/cmTC_46150.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_46150.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_46150.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_46150/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9b8f9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9b8f9.dir/build.make CMakeFiles/cmTC_9b8f9.dir/build
+Building C object CMakeFiles/cmTC_9b8f9.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_9b8f9.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9b8f9.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_9b8f9/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_85a18/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_85a18.dir/build.make CMakeFiles/cmTC_85a18.dir/build
+Building CXX object CMakeFiles/cmTC_85a18.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_85a18.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_85a18.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_85a18/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_79710/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_79710.dir/build.make CMakeFiles/cmTC_79710.dir/build
+Building C object CMakeFiles/cmTC_79710.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_79710.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_79710.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_79710/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_24188/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_24188.dir/build.make CMakeFiles/cmTC_24188.dir/build
+Building CXX object CMakeFiles/cmTC_24188.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_24188.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_24188.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_24188/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3a7dc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3a7dc.dir/build.make CMakeFiles/cmTC_3a7dc.dir/build
+Building C object CMakeFiles/cmTC_3a7dc.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_3a7dc.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3a7dc.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_3a7dc/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a6efa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a6efa.dir/build.make CMakeFiles/cmTC_a6efa.dir/build
+Building CXX object CMakeFiles/cmTC_a6efa.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a6efa.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a6efa.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_a6efa/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_07c19/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_07c19.dir/build.make CMakeFiles/cmTC_07c19.dir/build
+Building C object CMakeFiles/cmTC_07c19.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_07c19.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_07c19.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_07c19/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_55a57/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_55a57.dir/build.make CMakeFiles/cmTC_55a57.dir/build
+Building CXX object CMakeFiles/cmTC_55a57.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_55a57.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_55a57.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_55a57/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4a11e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_4a11e.dir/build.make CMakeFiles/cmTC_4a11e.dir/build
+Building C object CMakeFiles/cmTC_4a11e.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_4a11e.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4a11e.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_4a11e/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_43f13/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_43f13.dir/build.make CMakeFiles/cmTC_43f13.dir/build
+Building CXX object CMakeFiles/cmTC_43f13.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_43f13.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_43f13.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_43f13/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_cba6e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_cba6e.dir/build.make CMakeFiles/cmTC_cba6e.dir/build
+Building C object CMakeFiles/cmTC_cba6e.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_cba6e.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_cba6e.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_cba6e/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1923e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1923e.dir/build.make CMakeFiles/cmTC_1923e.dir/build
+Building CXX object CMakeFiles/cmTC_1923e.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_1923e.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_1923e.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_1923e/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0f682/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_0f682.dir/build.make CMakeFiles/cmTC_0f682.dir/build
+Building C object CMakeFiles/cmTC_0f682.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_0f682.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_0f682.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_0f682/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_7e2b9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_7e2b9.dir/build.make CMakeFiles/cmTC_7e2b9.dir/build
+Building CXX object CMakeFiles/cmTC_7e2b9.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_7e2b9.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_7e2b9.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_7e2b9/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ec942/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ec942.dir/build.make CMakeFiles/cmTC_ec942.dir/build
+Building C object CMakeFiles/cmTC_ec942.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_ec942.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ec942.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_ec942/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c23a0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_c23a0.dir/build.make CMakeFiles/cmTC_c23a0.dir/build
+Building CXX object CMakeFiles/cmTC_c23a0.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_c23a0.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_c23a0.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_c23a0/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ccbf1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ccbf1.dir/build.make CMakeFiles/cmTC_ccbf1.dir/build
+Building C object CMakeFiles/cmTC_ccbf1.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_ccbf1.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ccbf1.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_ccbf1/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d54ef/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d54ef.dir/build.make CMakeFiles/cmTC_d54ef.dir/build
+Building CXX object CMakeFiles/cmTC_d54ef.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_d54ef.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d54ef.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_d54ef/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_63f2b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_63f2b.dir/build.make CMakeFiles/cmTC_63f2b.dir/build
+Building C object CMakeFiles/cmTC_63f2b.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_63f2b.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_63f2b.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_63f2b/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a1e23/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a1e23.dir/build.make CMakeFiles/cmTC_a1e23.dir/build
+Building CXX object CMakeFiles/cmTC_a1e23.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a1e23.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a1e23.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_a1e23/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_211d1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_211d1.dir/build.make CMakeFiles/cmTC_211d1.dir/build
+Building C object CMakeFiles/cmTC_211d1.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_211d1.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_211d1.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_211d1/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4216a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_4216a.dir/build.make CMakeFiles/cmTC_4216a.dir/build
+Building CXX object CMakeFiles/cmTC_4216a.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_4216a.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4216a.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_4216a/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2ad78/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2ad78.dir/build.make CMakeFiles/cmTC_2ad78.dir/build
+Building C object CMakeFiles/cmTC_2ad78.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_2ad78.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2ad78.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_2ad78/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a58df/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a58df.dir/build.make CMakeFiles/cmTC_a58df.dir/build
+Building CXX object CMakeFiles/cmTC_a58df.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a58df.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a58df.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_a58df/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_19a15/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_19a15.dir/build.make CMakeFiles/cmTC_19a15.dir/build
+Building C object CMakeFiles/cmTC_19a15.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_19a15.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_19a15.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_19a15/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_0c5e8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_0c5e8.dir/build.make CMakeFiles/cmTC_0c5e8.dir/build
+Building CXX object CMakeFiles/cmTC_0c5e8.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_0c5e8.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_0c5e8.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_0c5e8/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_af50a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_af50a.dir/build.make CMakeFiles/cmTC_af50a.dir/build
+Building C object CMakeFiles/cmTC_af50a.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_af50a.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_af50a.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_af50a/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ebf68/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ebf68.dir/build.make CMakeFiles/cmTC_ebf68.dir/build
+Building CXX object CMakeFiles/cmTC_ebf68.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_ebf68.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ebf68.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_ebf68/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6e433/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_6e433.dir/build.make CMakeFiles/cmTC_6e433.dir/build
+Building C object CMakeFiles/cmTC_6e433.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_6e433.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_6e433.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_6e433/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e5c01/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e5c01.dir/build.make CMakeFiles/cmTC_e5c01.dir/build
+Building CXX object CMakeFiles/cmTC_e5c01.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_e5c01.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e5c01.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_e5c01/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_21057/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_21057.dir/build.make CMakeFiles/cmTC_21057.dir/build
+Building C object CMakeFiles/cmTC_21057.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_21057.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_21057.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_21057/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_13175/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_13175.dir/build.make CMakeFiles/cmTC_13175.dir/build
+Building CXX object CMakeFiles/cmTC_13175.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_13175.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_13175.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_13175/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a127e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a127e.dir/build.make CMakeFiles/cmTC_a127e.dir/build
+Building C object CMakeFiles/cmTC_a127e.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_a127e.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a127e.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_a127e/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_177a2/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_177a2.dir/build.make CMakeFiles/cmTC_177a2.dir/build
+Building CXX object CMakeFiles/cmTC_177a2.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++14 -o CMakeFiles/cmTC_177a2.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_177a2.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_177a2/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d0134/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d0134.dir/build.make CMakeFiles/cmTC_d0134.dir/build
+Building C object CMakeFiles/cmTC_d0134.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d0134.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d0134.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d0134/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_55da8/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_55da8.dir/build.make CMakeFiles/cmTC_55da8.dir/build
+Building CXX object CMakeFiles/cmTC_55da8.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_55da8.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_55da8.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_55da8/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_314ab/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_314ab.dir/build.make CMakeFiles/cmTC_314ab.dir/build
+Building C object CMakeFiles/cmTC_314ab.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_314ab.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_314ab.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_314ab/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_591dc/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_591dc.dir/build.make CMakeFiles/cmTC_591dc.dir/build
+Building CXX object CMakeFiles/cmTC_591dc.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_591dc.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_591dc.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_591dc/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f01c4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f01c4.dir/build.make CMakeFiles/cmTC_f01c4.dir/build
+Building C object CMakeFiles/cmTC_f01c4.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_f01c4.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f01c4.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_f01c4/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_69e50/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_69e50.dir/build.make CMakeFiles/cmTC_69e50.dir/build
+Building CXX object CMakeFiles/cmTC_69e50.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_69e50.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_69e50.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_69e50/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_51f23/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_51f23.dir/build.make CMakeFiles/cmTC_51f23.dir/build
+Building C object CMakeFiles/cmTC_51f23.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_51f23.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_51f23.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_51f23/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_e26fd/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_e26fd.dir/build.make CMakeFiles/cmTC_e26fd.dir/build
+Building CXX object CMakeFiles/cmTC_e26fd.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_e26fd.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_e26fd.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_e26fd/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6ff5c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_6ff5c.dir/build.make CMakeFiles/cmTC_6ff5c.dir/build
+Building C object CMakeFiles/cmTC_6ff5c.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_6ff5c.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_6ff5c.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_6ff5c/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f294f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f294f.dir/build.make CMakeFiles/cmTC_f294f.dir/build
+Building CXX object CMakeFiles/cmTC_f294f.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f294f.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f294f.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_f294f/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9404f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9404f.dir/build.make CMakeFiles/cmTC_9404f.dir/build
+Building C object CMakeFiles/cmTC_9404f.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_9404f.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9404f.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_9404f/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5acd5/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5acd5.dir/build.make CMakeFiles/cmTC_5acd5.dir/build
+Building CXX object CMakeFiles/cmTC_5acd5.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_5acd5.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_5acd5.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_5acd5/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1cb7d/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1cb7d.dir/build.make CMakeFiles/cmTC_1cb7d.dir/build
+Building C object CMakeFiles/cmTC_1cb7d.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_1cb7d.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_1cb7d.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_1cb7d/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_6c03e/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_6c03e.dir/build.make CMakeFiles/cmTC_6c03e.dir/build
+Building CXX object CMakeFiles/cmTC_6c03e.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_6c03e.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_6c03e.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_6c03e/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f10b7/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f10b7.dir/build.make CMakeFiles/cmTC_f10b7.dir/build
+Building C object CMakeFiles/cmTC_f10b7.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_f10b7.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f10b7.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_f10b7/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f650b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f650b.dir/build.make CMakeFiles/cmTC_f650b.dir/build
+Building CXX object CMakeFiles/cmTC_f650b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f650b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_f650b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_f650b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d4d60/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d4d60.dir/build.make CMakeFiles/cmTC_d4d60.dir/build
+Building C object CMakeFiles/cmTC_d4d60.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d4d60.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_d4d60.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_d4d60/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9717c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9717c.dir/build.make CMakeFiles/cmTC_9717c.dir/build
+Building CXX object CMakeFiles/cmTC_9717c.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_9717c.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_9717c.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_9717c/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_25d45/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_25d45.dir/build.make CMakeFiles/cmTC_25d45.dir/build
+Building C object CMakeFiles/cmTC_25d45.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_25d45.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_25d45.dir/OpenMPCheckVersion.c.o] Error 1
+make: *** [cmTC_25d45/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03702/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_03702.dir/build.make CMakeFiles/cmTC_03702.dir/build
+Building CXX object CMakeFiles/cmTC_03702.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_03702.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[1]: *** [CMakeFiles/cmTC_03702.dir/OpenMPCheckVersion.cpp.o] Error 1
+make: *** [cmTC_03702/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_01ee0/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_01ee0.dir/build.make CMakeFiles/cmTC_01ee0.dir/build
+Building C object CMakeFiles/cmTC_01ee0.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_01ee0.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_01ee0.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_01ee0/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_8bf9b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_8bf9b.dir/build.make CMakeFiles/cmTC_8bf9b.dir/build
+Building CXX object CMakeFiles/cmTC_8bf9b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_8bf9b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_8bf9b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_8bf9b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d0b8f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d0b8f.dir/build.make CMakeFiles/cmTC_d0b8f.dir/build
+Building C object CMakeFiles/cmTC_d0b8f.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_d0b8f.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d0b8f.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_d0b8f/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5f5a1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5f5a1.dir/build.make CMakeFiles/cmTC_5f5a1.dir/build
+Building CXX object CMakeFiles/cmTC_5f5a1.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_5f5a1.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_5f5a1.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_5f5a1/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_afd8f/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_afd8f.dir/build.make CMakeFiles/cmTC_afd8f.dir/build
+Building C object CMakeFiles/cmTC_afd8f.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_afd8f.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_afd8f.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_afd8f/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f9608/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f9608.dir/build.make CMakeFiles/cmTC_f9608.dir/build
+Building CXX object CMakeFiles/cmTC_f9608.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f9608.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f9608.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_f9608/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3b043/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3b043.dir/build.make CMakeFiles/cmTC_3b043.dir/build
+Building C object CMakeFiles/cmTC_3b043.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_3b043.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3b043.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_3b043/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fb0cd/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fb0cd.dir/build.make CMakeFiles/cmTC_fb0cd.dir/build
+Building CXX object CMakeFiles/cmTC_fb0cd.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_fb0cd.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fb0cd.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_fb0cd/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9e444/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9e444.dir/build.make CMakeFiles/cmTC_9e444.dir/build
+Building C object CMakeFiles/cmTC_9e444.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_9e444.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9e444.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_9e444/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_c6359/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_c6359.dir/build.make CMakeFiles/cmTC_c6359.dir/build
+Building CXX object CMakeFiles/cmTC_c6359.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_c6359.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_c6359.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_c6359/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_488f9/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_488f9.dir/build.make CMakeFiles/cmTC_488f9.dir/build
+Building C object CMakeFiles/cmTC_488f9.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_488f9.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_488f9.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_488f9/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b06c6/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b06c6.dir/build.make CMakeFiles/cmTC_b06c6.dir/build
+Building CXX object CMakeFiles/cmTC_b06c6.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_b06c6.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_b06c6.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_b06c6/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ba25a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ba25a.dir/build.make CMakeFiles/cmTC_ba25a.dir/build
+Building C object CMakeFiles/cmTC_ba25a.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_ba25a.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ba25a.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_ba25a/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fd5db/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fd5db.dir/build.make CMakeFiles/cmTC_fd5db.dir/build
+Building CXX object CMakeFiles/cmTC_fd5db.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_fd5db.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fd5db.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_fd5db/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_03553/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_03553.dir/build.make CMakeFiles/cmTC_03553.dir/build
+Building C object CMakeFiles/cmTC_03553.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_03553.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_03553.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_03553/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_789e6/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_789e6.dir/build.make CMakeFiles/cmTC_789e6.dir/build
+Building CXX object CMakeFiles/cmTC_789e6.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_789e6.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_789e6.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_789e6/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_325aa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_325aa.dir/build.make CMakeFiles/cmTC_325aa.dir/build
+Building C object CMakeFiles/cmTC_325aa.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_325aa.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_325aa.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_325aa/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_3bebf/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_3bebf.dir/build.make CMakeFiles/cmTC_3bebf.dir/build
+Building CXX object CMakeFiles/cmTC_3bebf.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_3bebf.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_3bebf.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_3bebf/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_73def/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_73def.dir/build.make CMakeFiles/cmTC_73def.dir/build
+Building C object CMakeFiles/cmTC_73def.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_73def.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_73def.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_73def/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4d35b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_4d35b.dir/build.make CMakeFiles/cmTC_4d35b.dir/build
+Building CXX object CMakeFiles/cmTC_4d35b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_4d35b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4d35b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_4d35b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fc60c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fc60c.dir/build.make CMakeFiles/cmTC_fc60c.dir/build
+Building C object CMakeFiles/cmTC_fc60c.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_fc60c.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fc60c.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_fc60c/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f9fd4/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f9fd4.dir/build.make CMakeFiles/cmTC_f9fd4.dir/build
+Building CXX object CMakeFiles/cmTC_f9fd4.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_f9fd4.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f9fd4.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_f9fd4/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_16aaf/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_16aaf.dir/build.make CMakeFiles/cmTC_16aaf.dir/build
+Building C object CMakeFiles/cmTC_16aaf.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_16aaf.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_16aaf.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_16aaf/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d47ab/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d47ab.dir/build.make CMakeFiles/cmTC_d47ab.dir/build
+Building CXX object CMakeFiles/cmTC_d47ab.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_d47ab.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d47ab.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_d47ab/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_92eaa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_92eaa.dir/build.make CMakeFiles/cmTC_92eaa.dir/build
+Building C object CMakeFiles/cmTC_92eaa.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_92eaa.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_92eaa.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_92eaa/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fe086/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fe086.dir/build.make CMakeFiles/cmTC_fe086.dir/build
+Building CXX object CMakeFiles/cmTC_fe086.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_fe086.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fe086.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_fe086/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ca362/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ca362.dir/build.make CMakeFiles/cmTC_ca362.dir/build
+Building C object CMakeFiles/cmTC_ca362.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_ca362.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ca362.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_ca362/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_9556b/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_9556b.dir/build.make CMakeFiles/cmTC_9556b.dir/build
+Building CXX object CMakeFiles/cmTC_9556b.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_9556b.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_9556b.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_9556b/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_b8ba1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_b8ba1.dir/build.make CMakeFiles/cmTC_b8ba1.dir/build
+Building C object CMakeFiles/cmTC_b8ba1.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_b8ba1.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_b8ba1.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_b8ba1/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_a9448/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_a9448.dir/build.make CMakeFiles/cmTC_a9448.dir/build
+Building CXX object CMakeFiles/cmTC_a9448.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_a9448.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_a9448.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_a9448/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_4e4e6/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_4e4e6.dir/build.make CMakeFiles/cmTC_4e4e6.dir/build
+Building C object CMakeFiles/cmTC_4e4e6.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_4e4e6.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_4e4e6.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_4e4e6/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_924fa/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_924fa.dir/build.make CMakeFiles/cmTC_924fa.dir/build
+Building CXX object CMakeFiles/cmTC_924fa.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_924fa.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_924fa.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_924fa/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_f4731/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_f4731.dir/build.make CMakeFiles/cmTC_f4731.dir/build
+Building C object CMakeFiles/cmTC_f4731.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_f4731.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_f4731.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_f4731/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_24521/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_24521.dir/build.make CMakeFiles/cmTC_24521.dir/build
+Building CXX object CMakeFiles/cmTC_24521.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_24521.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_24521.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_24521/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_1f250/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_1f250.dir/build.make CMakeFiles/cmTC_1f250.dir/build
+Building C object CMakeFiles/cmTC_1f250.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_1f250.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_1f250.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_1f250/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_5628a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_5628a.dir/build.make CMakeFiles/cmTC_5628a.dir/build
+Building CXX object CMakeFiles/cmTC_5628a.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_5628a.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_5628a.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_5628a/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_fac0c/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_fac0c.dir/build.make CMakeFiles/cmTC_fac0c.dir/build
+Building C object CMakeFiles/cmTC_fac0c.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_fac0c.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_fac0c.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_fac0c/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_55996/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_55996.dir/build.make CMakeFiles/cmTC_55996.dir/build
+Building CXX object CMakeFiles/cmTC_55996.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_55996.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_55996.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_55996/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_ebe9a/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_ebe9a.dir/build.make CMakeFiles/cmTC_ebe9a.dir/build
+Building C object CMakeFiles/cmTC_ebe9a.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_ebe9a.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_ebe9a.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_ebe9a/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d6307/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d6307.dir/build.make CMakeFiles/cmTC_d6307.dir/build
+Building CXX object CMakeFiles/cmTC_d6307.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_d6307.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d6307.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_d6307/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2a743/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2a743.dir/build.make CMakeFiles/cmTC_2a743.dir/build
+Building C object CMakeFiles/cmTC_2a743.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_2a743.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2a743.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_2a743/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_07be1/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_07be1.dir/build.make CMakeFiles/cmTC_07be1.dir/build
+Building CXX object CMakeFiles/cmTC_07be1.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_07be1.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_07be1.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_07be1/fast] Error 2
+
+
+
+Detecting C OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_2ba75/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_2ba75.dir/build.make CMakeFiles/cmTC_2ba75.dir/build
+Building C object CMakeFiles/cmTC_2ba75.dir/OpenMPCheckVersion.c.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/cc   -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -o CMakeFiles/cmTC_2ba75.dir/OpenMPCheckVersion.c.o   -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.c
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_2ba75.dir/OpenMPCheckVersion.c.o] Error 1
+make[1]: *** [cmTC_2ba75/fast] Error 2
+
+
+
+Detecting CXX OpenMP version failed with the following output:
+Change Dir: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make cmTC_d20de/fast && /Applications/Xcode.app/Contents/Developer/usr/bin/make  -f CMakeFiles/cmTC_d20de.dir/build.make CMakeFiles/cmTC_d20de.dir/build
+Building CXX object CMakeFiles/cmTC_d20de.dir/OpenMPCheckVersion.cpp.o
+/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/c++    -fopenmp=libomp -Wno-unused-command-line-argument -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX11.1.sdk -mmacosx-version-min=10.15   -std=gnu++17 -o CMakeFiles/cmTC_d20de.dir/OpenMPCheckVersion.cpp.o -c /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug/CMakeFiles/FindOpenMP/OpenMPCheckVersion.cpp
+clang: error: unsupported argument 'libomp' to option 'fopenmp='
+make[2]: *** [CMakeFiles/cmTC_d20de.dir/OpenMPCheckVersion.cpp.o] Error 1
+make[1]: *** [cmTC_d20de/fast] Error 2
+
+
+

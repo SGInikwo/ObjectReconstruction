@@ -1,0 +1,115 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /Users/macbook2015/CLionProjects/objRecon
+Found OpenCV
+-- Eigen found (include: /usr/local/include/eigen3, version: 3.3.9)
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1183 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1307 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1908 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:133 (find_package)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:313 (find_boost)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:552 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1183 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1307 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1908 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:133 (find_package)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:313 (find_boost)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:552 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1183 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1307 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1908 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:133 (find_package)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:313 (find_boost)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:552 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1183 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1307 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1908 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:133 (find_package)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:313 (find_boost)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:552 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+
+
+CMake Warning at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1183 (message):
+  New Boost version may have incorrect or missing dependencies and imported
+  targets
+Call Stack (most recent call first):
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1307 (_Boost_COMPONENT_DEPENDENCIES)
+  /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindBoost.cmake:1908 (_Boost_MISSING_DEPENDENCIES)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:133 (find_package)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:313 (find_boost)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:552 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+
+
+** WARNING ** io features related to pcap will be disabled
+** WARNING ** io features related to png will be disabled
+CMake Warning (dev) at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (libusb-1.0)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:290 (find_package_handle_standard_args)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:337 (find_libusb)
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:549 (find_external_library)
+  CMakeLists.txt:58 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+** WARNING ** io features related to libusb-1.0 will be disabled
+-- looking for PCL_COMMON
+CMake Warning (dev) at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_COMMON)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:617 (find_package_handle_standard_args)
+  CMakeLists.txt:58 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_OCTREE
+CMake Warning (dev) at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_OCTREE)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:617 (find_package_handle_standard_args)
+  CMakeLists.txt:58 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+-- looking for PCL_IO
+CMake Warning (dev) at /Applications/CLion.app/Contents/bin/cmake/mac/share/cmake-3.17/Modules/FindPackageHandleStandardArgs.cmake:272 (message):
+  The package name passed to `find_package_handle_standard_args` (PCL_IO)
+  does not match the name of the calling package (PCL).  This can lead to
+  problems in calling code that expects `find_package` result variables
+  (e.g., `_FOUND`) to follow a certain pattern.
+Call Stack (most recent call first):
+  /usr/local/share/pcl-1.11/PCLConfig.cmake:617 (find_package_handle_standard_args)
+  CMakeLists.txt:58 (find_package)
+This warning is for project developers.  Use -Wno-dev to suppress it.
+
+Found PCL
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /Users/macbook2015/CLionProjects/objRecon/cmake-build-debug
