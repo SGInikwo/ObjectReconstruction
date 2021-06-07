@@ -13,8 +13,6 @@ Citations
 
 **[2]** Marí Roger (2017). *Multi-view 3D Reconstruction via Depth Map Fusion for a Smartphone Application*.
 
-If you find this software or some part of it useful, please cite it as:
-
 ```
   @misc{mari2017depthfusion,
     author = "Roger Mar{\'i}",
