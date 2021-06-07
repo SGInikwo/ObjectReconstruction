@@ -34,7 +34,7 @@ public:
     bool TVL2_TVL1 = false;
 
     float scale = 1.0;
-    cv::String costMeasure = "SSD"; // 'costMeasure' is the similarity measure used to compute the depthmaps (NCC, SSD or SAD)
+    cv::String costMeasure = "SSD"; // 'costMeasure' is the similarity measure used to compu te the depthmaps (NCC, SSD or SAD)
     float conf = 0.3;           // 'conf' is the minimum cost that is necessary to consider a depth measure reliable
     int windowSize = 13;        // 'windowSize' is the length of one side of the window used in the similarity measure
     int nplanes = 150;
