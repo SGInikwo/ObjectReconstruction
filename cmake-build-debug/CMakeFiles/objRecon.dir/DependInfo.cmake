@@ -4,16 +4,16 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "/Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/AdjustBox.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/MarchingCubes.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/Rec3D.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/Rec3D.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/bbox.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/bbox.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/camera.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/camera.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/planesweep.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/planesweep.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/pointcloud.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/pointcloud.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/rApp.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/rApp.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/rMain.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/rMain.cpp.o"
-  "/Users/goldy/Dev/Projects/C++/objRecon/tvl1.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/tvl1.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/Rec3D.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/bbox.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/bbox.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/camera.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/camera.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/planesweep.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/pointcloud.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/rApp.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/rApp.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/rMain.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/rMain.cpp.o"
+  "/Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.cpp" "/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles/objRecon.dir/src/tvl1.cpp.o"
   )
 set(CMAKE_CXX_COMPILER_ID "AppleClang")
 

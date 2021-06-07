@@ -143,275 +143,275 @@ objRecon/fast:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/build
 .PHONY : objRecon/fast
 
-AdjustBox.o: AdjustBox.cpp.o
+src/AdjustBox.o: src/AdjustBox.cpp.o
 
-.PHONY : AdjustBox.o
-
-# target to build an object file
-AdjustBox.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/AdjustBox.cpp.o
-.PHONY : AdjustBox.cpp.o
-
-AdjustBox.i: AdjustBox.cpp.i
-
-.PHONY : AdjustBox.i
-
-# target to preprocess a source file
-AdjustBox.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/AdjustBox.cpp.i
-.PHONY : AdjustBox.cpp.i
-
-AdjustBox.s: AdjustBox.cpp.s
-
-.PHONY : AdjustBox.s
-
-# target to generate assembly for a file
-AdjustBox.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/AdjustBox.cpp.s
-.PHONY : AdjustBox.cpp.s
-
-MarchingCubes.o: MarchingCubes.cpp.o
-
-.PHONY : MarchingCubes.o
+.PHONY : src/AdjustBox.o
 
 # target to build an object file
-MarchingCubes.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/MarchingCubes.cpp.o
-.PHONY : MarchingCubes.cpp.o
+src/AdjustBox.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o
+.PHONY : src/AdjustBox.cpp.o
 
-MarchingCubes.i: MarchingCubes.cpp.i
+src/AdjustBox.i: src/AdjustBox.cpp.i
 
-.PHONY : MarchingCubes.i
+.PHONY : src/AdjustBox.i
 
 # target to preprocess a source file
-MarchingCubes.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/MarchingCubes.cpp.i
-.PHONY : MarchingCubes.cpp.i
+src/AdjustBox.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/AdjustBox.cpp.i
+.PHONY : src/AdjustBox.cpp.i
 
-MarchingCubes.s: MarchingCubes.cpp.s
+src/AdjustBox.s: src/AdjustBox.cpp.s
 
-.PHONY : MarchingCubes.s
+.PHONY : src/AdjustBox.s
 
 # target to generate assembly for a file
-MarchingCubes.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/MarchingCubes.cpp.s
-.PHONY : MarchingCubes.cpp.s
+src/AdjustBox.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/AdjustBox.cpp.s
+.PHONY : src/AdjustBox.cpp.s
 
-Rec3D.o: Rec3D.cpp.o
+src/MarchingCubes.o: src/MarchingCubes.cpp.o
 
-.PHONY : Rec3D.o
+.PHONY : src/MarchingCubes.o
 
 # target to build an object file
-Rec3D.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/Rec3D.cpp.o
-.PHONY : Rec3D.cpp.o
+src/MarchingCubes.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o
+.PHONY : src/MarchingCubes.cpp.o
 
-Rec3D.i: Rec3D.cpp.i
+src/MarchingCubes.i: src/MarchingCubes.cpp.i
 
-.PHONY : Rec3D.i
+.PHONY : src/MarchingCubes.i
 
 # target to preprocess a source file
-Rec3D.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/Rec3D.cpp.i
-.PHONY : Rec3D.cpp.i
+src/MarchingCubes.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.i
+.PHONY : src/MarchingCubes.cpp.i
 
-Rec3D.s: Rec3D.cpp.s
+src/MarchingCubes.s: src/MarchingCubes.cpp.s
 
-.PHONY : Rec3D.s
+.PHONY : src/MarchingCubes.s
 
 # target to generate assembly for a file
-Rec3D.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/Rec3D.cpp.s
-.PHONY : Rec3D.cpp.s
+src/MarchingCubes.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.s
+.PHONY : src/MarchingCubes.cpp.s
 
-bbox.o: bbox.cpp.o
+src/Rec3D.o: src/Rec3D.cpp.o
 
-.PHONY : bbox.o
+.PHONY : src/Rec3D.o
 
 # target to build an object file
-bbox.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/bbox.cpp.o
-.PHONY : bbox.cpp.o
+src/Rec3D.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/Rec3D.cpp.o
+.PHONY : src/Rec3D.cpp.o
 
-bbox.i: bbox.cpp.i
+src/Rec3D.i: src/Rec3D.cpp.i
 
-.PHONY : bbox.i
+.PHONY : src/Rec3D.i
 
 # target to preprocess a source file
-bbox.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/bbox.cpp.i
-.PHONY : bbox.cpp.i
+src/Rec3D.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/Rec3D.cpp.i
+.PHONY : src/Rec3D.cpp.i
 
-bbox.s: bbox.cpp.s
+src/Rec3D.s: src/Rec3D.cpp.s
 
-.PHONY : bbox.s
+.PHONY : src/Rec3D.s
 
 # target to generate assembly for a file
-bbox.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/bbox.cpp.s
-.PHONY : bbox.cpp.s
+src/Rec3D.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/Rec3D.cpp.s
+.PHONY : src/Rec3D.cpp.s
 
-camera.o: camera.cpp.o
+src/bbox.o: src/bbox.cpp.o
 
-.PHONY : camera.o
+.PHONY : src/bbox.o
 
 # target to build an object file
-camera.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/camera.cpp.o
-.PHONY : camera.cpp.o
+src/bbox.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/bbox.cpp.o
+.PHONY : src/bbox.cpp.o
 
-camera.i: camera.cpp.i
+src/bbox.i: src/bbox.cpp.i
 
-.PHONY : camera.i
+.PHONY : src/bbox.i
 
 # target to preprocess a source file
-camera.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/camera.cpp.i
-.PHONY : camera.cpp.i
+src/bbox.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/bbox.cpp.i
+.PHONY : src/bbox.cpp.i
 
-camera.s: camera.cpp.s
+src/bbox.s: src/bbox.cpp.s
 
-.PHONY : camera.s
+.PHONY : src/bbox.s
 
 # target to generate assembly for a file
-camera.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/camera.cpp.s
-.PHONY : camera.cpp.s
+src/bbox.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/bbox.cpp.s
+.PHONY : src/bbox.cpp.s
 
-planesweep.o: planesweep.cpp.o
+src/camera.o: src/camera.cpp.o
 
-.PHONY : planesweep.o
+.PHONY : src/camera.o
 
 # target to build an object file
-planesweep.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/planesweep.cpp.o
-.PHONY : planesweep.cpp.o
+src/camera.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/camera.cpp.o
+.PHONY : src/camera.cpp.o
 
-planesweep.i: planesweep.cpp.i
+src/camera.i: src/camera.cpp.i
 
-.PHONY : planesweep.i
+.PHONY : src/camera.i
 
 # target to preprocess a source file
-planesweep.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/planesweep.cpp.i
-.PHONY : planesweep.cpp.i
+src/camera.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/camera.cpp.i
+.PHONY : src/camera.cpp.i
 
-planesweep.s: planesweep.cpp.s
+src/camera.s: src/camera.cpp.s
 
-.PHONY : planesweep.s
+.PHONY : src/camera.s
 
 # target to generate assembly for a file
-planesweep.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/planesweep.cpp.s
-.PHONY : planesweep.cpp.s
+src/camera.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/camera.cpp.s
+.PHONY : src/camera.cpp.s
 
-pointcloud.o: pointcloud.cpp.o
+src/planesweep.o: src/planesweep.cpp.o
 
-.PHONY : pointcloud.o
+.PHONY : src/planesweep.o
 
 # target to build an object file
-pointcloud.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/pointcloud.cpp.o
-.PHONY : pointcloud.cpp.o
+src/planesweep.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/planesweep.cpp.o
+.PHONY : src/planesweep.cpp.o
 
-pointcloud.i: pointcloud.cpp.i
+src/planesweep.i: src/planesweep.cpp.i
 
-.PHONY : pointcloud.i
+.PHONY : src/planesweep.i
 
 # target to preprocess a source file
-pointcloud.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/pointcloud.cpp.i
-.PHONY : pointcloud.cpp.i
+src/planesweep.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/planesweep.cpp.i
+.PHONY : src/planesweep.cpp.i
 
-pointcloud.s: pointcloud.cpp.s
+src/planesweep.s: src/planesweep.cpp.s
 
-.PHONY : pointcloud.s
+.PHONY : src/planesweep.s
 
 # target to generate assembly for a file
-pointcloud.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/pointcloud.cpp.s
-.PHONY : pointcloud.cpp.s
+src/planesweep.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/planesweep.cpp.s
+.PHONY : src/planesweep.cpp.s
 
-rApp.o: rApp.cpp.o
+src/pointcloud.o: src/pointcloud.cpp.o
 
-.PHONY : rApp.o
+.PHONY : src/pointcloud.o
 
 # target to build an object file
-rApp.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rApp.cpp.o
-.PHONY : rApp.cpp.o
+src/pointcloud.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/pointcloud.cpp.o
+.PHONY : src/pointcloud.cpp.o
 
-rApp.i: rApp.cpp.i
+src/pointcloud.i: src/pointcloud.cpp.i
 
-.PHONY : rApp.i
+.PHONY : src/pointcloud.i
 
 # target to preprocess a source file
-rApp.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rApp.cpp.i
-.PHONY : rApp.cpp.i
+src/pointcloud.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/pointcloud.cpp.i
+.PHONY : src/pointcloud.cpp.i
 
-rApp.s: rApp.cpp.s
+src/pointcloud.s: src/pointcloud.cpp.s
 
-.PHONY : rApp.s
+.PHONY : src/pointcloud.s
 
 # target to generate assembly for a file
-rApp.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rApp.cpp.s
-.PHONY : rApp.cpp.s
+src/pointcloud.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/pointcloud.cpp.s
+.PHONY : src/pointcloud.cpp.s
 
-rMain.o: rMain.cpp.o
+src/rApp.o: src/rApp.cpp.o
 
-.PHONY : rMain.o
+.PHONY : src/rApp.o
 
 # target to build an object file
-rMain.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rMain.cpp.o
-.PHONY : rMain.cpp.o
+src/rApp.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rApp.cpp.o
+.PHONY : src/rApp.cpp.o
 
-rMain.i: rMain.cpp.i
+src/rApp.i: src/rApp.cpp.i
 
-.PHONY : rMain.i
+.PHONY : src/rApp.i
 
 # target to preprocess a source file
-rMain.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rMain.cpp.i
-.PHONY : rMain.cpp.i
+src/rApp.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rApp.cpp.i
+.PHONY : src/rApp.cpp.i
 
-rMain.s: rMain.cpp.s
+src/rApp.s: src/rApp.cpp.s
 
-.PHONY : rMain.s
+.PHONY : src/rApp.s
 
 # target to generate assembly for a file
-rMain.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/rMain.cpp.s
-.PHONY : rMain.cpp.s
+src/rApp.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rApp.cpp.s
+.PHONY : src/rApp.cpp.s
 
-tvl1.o: tvl1.cpp.o
+src/rMain.o: src/rMain.cpp.o
 
-.PHONY : tvl1.o
+.PHONY : src/rMain.o
 
 # target to build an object file
-tvl1.cpp.o:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/tvl1.cpp.o
-.PHONY : tvl1.cpp.o
+src/rMain.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rMain.cpp.o
+.PHONY : src/rMain.cpp.o
 
-tvl1.i: tvl1.cpp.i
+src/rMain.i: src/rMain.cpp.i
 
-.PHONY : tvl1.i
+.PHONY : src/rMain.i
 
 # target to preprocess a source file
-tvl1.cpp.i:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/tvl1.cpp.i
-.PHONY : tvl1.cpp.i
+src/rMain.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rMain.cpp.i
+.PHONY : src/rMain.cpp.i
 
-tvl1.s: tvl1.cpp.s
+src/rMain.s: src/rMain.cpp.s
 
-.PHONY : tvl1.s
+.PHONY : src/rMain.s
 
 # target to generate assembly for a file
-tvl1.cpp.s:
-	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/tvl1.cpp.s
-.PHONY : tvl1.cpp.s
+src/rMain.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/rMain.cpp.s
+.PHONY : src/rMain.cpp.s
+
+src/tvl1.o: src/tvl1.cpp.o
+
+.PHONY : src/tvl1.o
+
+# target to build an object file
+src/tvl1.cpp.o:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/tvl1.cpp.o
+.PHONY : src/tvl1.cpp.o
+
+src/tvl1.i: src/tvl1.cpp.i
+
+.PHONY : src/tvl1.i
+
+# target to preprocess a source file
+src/tvl1.cpp.i:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/tvl1.cpp.i
+.PHONY : src/tvl1.cpp.i
+
+src/tvl1.s: src/tvl1.cpp.s
+
+.PHONY : src/tvl1.s
+
+# target to generate assembly for a file
+src/tvl1.cpp.s:
+	$(MAKE) $(MAKESILENT) -f CMakeFiles/objRecon.dir/build.make CMakeFiles/objRecon.dir/src/tvl1.cpp.s
+.PHONY : src/tvl1.cpp.s
 
 # Help Target
 help:
@@ -422,36 +422,36 @@ help:
 	@echo "... edit_cache"
 	@echo "... rebuild_cache"
 	@echo "... objRecon"
-	@echo "... AdjustBox.o"
-	@echo "... AdjustBox.i"
-	@echo "... AdjustBox.s"
-	@echo "... MarchingCubes.o"
-	@echo "... MarchingCubes.i"
-	@echo "... MarchingCubes.s"
-	@echo "... Rec3D.o"
-	@echo "... Rec3D.i"
-	@echo "... Rec3D.s"
-	@echo "... bbox.o"
-	@echo "... bbox.i"
-	@echo "... bbox.s"
-	@echo "... camera.o"
-	@echo "... camera.i"
-	@echo "... camera.s"
-	@echo "... planesweep.o"
-	@echo "... planesweep.i"
-	@echo "... planesweep.s"
-	@echo "... pointcloud.o"
-	@echo "... pointcloud.i"
-	@echo "... pointcloud.s"
-	@echo "... rApp.o"
-	@echo "... rApp.i"
-	@echo "... rApp.s"
-	@echo "... rMain.o"
-	@echo "... rMain.i"
-	@echo "... rMain.s"
-	@echo "... tvl1.o"
-	@echo "... tvl1.i"
-	@echo "... tvl1.s"
+	@echo "... src/AdjustBox.o"
+	@echo "... src/AdjustBox.i"
+	@echo "... src/AdjustBox.s"
+	@echo "... src/MarchingCubes.o"
+	@echo "... src/MarchingCubes.i"
+	@echo "... src/MarchingCubes.s"
+	@echo "... src/Rec3D.o"
+	@echo "... src/Rec3D.i"
+	@echo "... src/Rec3D.s"
+	@echo "... src/bbox.o"
+	@echo "... src/bbox.i"
+	@echo "... src/bbox.s"
+	@echo "... src/camera.o"
+	@echo "... src/camera.i"
+	@echo "... src/camera.s"
+	@echo "... src/planesweep.o"
+	@echo "... src/planesweep.i"
+	@echo "... src/planesweep.s"
+	@echo "... src/pointcloud.o"
+	@echo "... src/pointcloud.i"
+	@echo "... src/pointcloud.s"
+	@echo "... src/rApp.o"
+	@echo "... src/rApp.i"
+	@echo "... src/rApp.s"
+	@echo "... src/rMain.o"
+	@echo "... src/rMain.i"
+	@echo "... src/rMain.s"
+	@echo "... src/tvl1.o"
+	@echo "... src/tvl1.i"
+	@echo "... src/tvl1.s"
 .PHONY : help
 
 

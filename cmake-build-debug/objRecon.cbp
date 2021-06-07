@@ -150,64 +150,64 @@
 				</MakeCommands>
 			</Target>
 		</Build>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/Rec3D.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/Rec3D.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/bbox.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/bbox.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/bbox.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/bbox.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/camera.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/camera.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/camera.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/camera.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/planesweep.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/planesweep.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/pointcloud.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/pointcloud.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/rApp.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/rApp.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/rApp.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/rApp.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/rMain.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/rMain.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/rMain.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/rMain.h">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/tvl1.cpp">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.cpp">
 			<Option target="objRecon"/>
 		</Unit>
-		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/tvl1.h">
+		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.h">
 			<Option target="objRecon"/>
 		</Unit>
 		<Unit filename="/Users/goldy/Dev/Projects/C++/objRecon/CMakeLists.txt">

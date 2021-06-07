@@ -75,5 +75,5 @@ include_directories(${PCL_INCLUDE_DIRS} ${OpenCV_INCLUDE_DIRS})
 link_directories(${PCL_LIBRARY_DIRS})
 add_definitions(${PCL_DEFINITIONS})
 
-add_executable(objRecon rApp.cpp rMain.cpp AdjustBox.cpp Rec3D.cpp MarchingCubes.cpp camera.cpp bbox.cpp pointcloud.cpp planesweep.cpp tvl1.cpp)
+add_executable(objRecon src/rApp.cpp src/rMain.cpp src/AdjustBox.cpp src/Rec3D.cpp src/MarchingCubes.cpp src/camera.cpp src/bbox.cpp src/pointcloud.cpp src/planesweep.cpp src/tvl1.cpp)
 target_link_libraries(objRecon ${wxWidgets_LIBRARIES} ${PCL_COMMON_LIBRARIES} ${PCL_IO_LIBRARIES} ${PCL_FILTERS_LIBRARIES} ${OpenCV_LIBS} ${VTK_LIBRARIES})

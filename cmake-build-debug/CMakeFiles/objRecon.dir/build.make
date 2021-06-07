@@ -77,162 +77,162 @@ include CMakeFiles/objRecon.dir/progress.make
 # Include the compile flags for this target's objects.
 include CMakeFiles/objRecon.dir/flags.make
 
-CMakeFiles/objRecon.dir/rApp.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/rApp.cpp.o: ../rApp.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/objRecon.dir/rApp.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/rApp.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/rApp.cpp
+CMakeFiles/objRecon.dir/src/rApp.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/rApp.cpp.o: ../src/rApp.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/objRecon.dir/src/rApp.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/rApp.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/rApp.cpp
 
-CMakeFiles/objRecon.dir/rApp.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/rApp.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/rApp.cpp > CMakeFiles/objRecon.dir/rApp.cpp.i
+CMakeFiles/objRecon.dir/src/rApp.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/rApp.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/rApp.cpp > CMakeFiles/objRecon.dir/src/rApp.cpp.i
 
-CMakeFiles/objRecon.dir/rApp.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/rApp.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/rApp.cpp -o CMakeFiles/objRecon.dir/rApp.cpp.s
+CMakeFiles/objRecon.dir/src/rApp.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/rApp.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/rApp.cpp -o CMakeFiles/objRecon.dir/src/rApp.cpp.s
 
-CMakeFiles/objRecon.dir/rMain.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/rMain.cpp.o: ../rMain.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/objRecon.dir/rMain.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/rMain.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/rMain.cpp
+CMakeFiles/objRecon.dir/src/rMain.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/rMain.cpp.o: ../src/rMain.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/objRecon.dir/src/rMain.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/rMain.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/rMain.cpp
 
-CMakeFiles/objRecon.dir/rMain.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/rMain.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/rMain.cpp > CMakeFiles/objRecon.dir/rMain.cpp.i
+CMakeFiles/objRecon.dir/src/rMain.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/rMain.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/rMain.cpp > CMakeFiles/objRecon.dir/src/rMain.cpp.i
 
-CMakeFiles/objRecon.dir/rMain.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/rMain.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/rMain.cpp -o CMakeFiles/objRecon.dir/rMain.cpp.s
+CMakeFiles/objRecon.dir/src/rMain.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/rMain.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/rMain.cpp -o CMakeFiles/objRecon.dir/src/rMain.cpp.s
 
-CMakeFiles/objRecon.dir/AdjustBox.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/AdjustBox.cpp.o: ../AdjustBox.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/objRecon.dir/AdjustBox.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/AdjustBox.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.cpp
+CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o: ../src/AdjustBox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.cpp
 
-CMakeFiles/objRecon.dir/AdjustBox.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/AdjustBox.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.cpp > CMakeFiles/objRecon.dir/AdjustBox.cpp.i
+CMakeFiles/objRecon.dir/src/AdjustBox.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/AdjustBox.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.cpp > CMakeFiles/objRecon.dir/src/AdjustBox.cpp.i
 
-CMakeFiles/objRecon.dir/AdjustBox.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/AdjustBox.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/AdjustBox.cpp -o CMakeFiles/objRecon.dir/AdjustBox.cpp.s
+CMakeFiles/objRecon.dir/src/AdjustBox.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/AdjustBox.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/AdjustBox.cpp -o CMakeFiles/objRecon.dir/src/AdjustBox.cpp.s
 
-CMakeFiles/objRecon.dir/Rec3D.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/Rec3D.cpp.o: ../Rec3D.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/objRecon.dir/Rec3D.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/Rec3D.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/Rec3D.cpp
+CMakeFiles/objRecon.dir/src/Rec3D.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/Rec3D.cpp.o: ../src/Rec3D.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Building CXX object CMakeFiles/objRecon.dir/src/Rec3D.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/Rec3D.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.cpp
 
-CMakeFiles/objRecon.dir/Rec3D.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/Rec3D.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/Rec3D.cpp > CMakeFiles/objRecon.dir/Rec3D.cpp.i
+CMakeFiles/objRecon.dir/src/Rec3D.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/Rec3D.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.cpp > CMakeFiles/objRecon.dir/src/Rec3D.cpp.i
 
-CMakeFiles/objRecon.dir/Rec3D.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/Rec3D.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/Rec3D.cpp -o CMakeFiles/objRecon.dir/Rec3D.cpp.s
+CMakeFiles/objRecon.dir/src/Rec3D.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/Rec3D.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/Rec3D.cpp -o CMakeFiles/objRecon.dir/src/Rec3D.cpp.s
 
-CMakeFiles/objRecon.dir/MarchingCubes.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/MarchingCubes.cpp.o: ../MarchingCubes.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/objRecon.dir/MarchingCubes.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/MarchingCubes.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.cpp
+CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o: ../src/MarchingCubes.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_5) "Building CXX object CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.cpp
 
-CMakeFiles/objRecon.dir/MarchingCubes.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/MarchingCubes.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.cpp > CMakeFiles/objRecon.dir/MarchingCubes.cpp.i
+CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.cpp > CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.i
 
-CMakeFiles/objRecon.dir/MarchingCubes.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/MarchingCubes.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/MarchingCubes.cpp -o CMakeFiles/objRecon.dir/MarchingCubes.cpp.s
+CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/MarchingCubes.cpp -o CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.s
 
-CMakeFiles/objRecon.dir/camera.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/camera.cpp.o: ../camera.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/objRecon.dir/camera.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/camera.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/camera.cpp
+CMakeFiles/objRecon.dir/src/camera.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/camera.cpp.o: ../src/camera.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_6) "Building CXX object CMakeFiles/objRecon.dir/src/camera.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/camera.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/camera.cpp
 
-CMakeFiles/objRecon.dir/camera.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/camera.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/camera.cpp > CMakeFiles/objRecon.dir/camera.cpp.i
+CMakeFiles/objRecon.dir/src/camera.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/camera.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/camera.cpp > CMakeFiles/objRecon.dir/src/camera.cpp.i
 
-CMakeFiles/objRecon.dir/camera.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/camera.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/camera.cpp -o CMakeFiles/objRecon.dir/camera.cpp.s
+CMakeFiles/objRecon.dir/src/camera.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/camera.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/camera.cpp -o CMakeFiles/objRecon.dir/src/camera.cpp.s
 
-CMakeFiles/objRecon.dir/bbox.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/bbox.cpp.o: ../bbox.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/objRecon.dir/bbox.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/bbox.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/bbox.cpp
+CMakeFiles/objRecon.dir/src/bbox.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/bbox.cpp.o: ../src/bbox.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_7) "Building CXX object CMakeFiles/objRecon.dir/src/bbox.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/bbox.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/bbox.cpp
 
-CMakeFiles/objRecon.dir/bbox.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/bbox.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/bbox.cpp > CMakeFiles/objRecon.dir/bbox.cpp.i
+CMakeFiles/objRecon.dir/src/bbox.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/bbox.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/bbox.cpp > CMakeFiles/objRecon.dir/src/bbox.cpp.i
 
-CMakeFiles/objRecon.dir/bbox.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/bbox.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/bbox.cpp -o CMakeFiles/objRecon.dir/bbox.cpp.s
+CMakeFiles/objRecon.dir/src/bbox.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/bbox.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/bbox.cpp -o CMakeFiles/objRecon.dir/src/bbox.cpp.s
 
-CMakeFiles/objRecon.dir/pointcloud.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/pointcloud.cpp.o: ../pointcloud.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/objRecon.dir/pointcloud.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/pointcloud.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/pointcloud.cpp
+CMakeFiles/objRecon.dir/src/pointcloud.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/pointcloud.cpp.o: ../src/pointcloud.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_8) "Building CXX object CMakeFiles/objRecon.dir/src/pointcloud.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/pointcloud.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.cpp
 
-CMakeFiles/objRecon.dir/pointcloud.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/pointcloud.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/pointcloud.cpp > CMakeFiles/objRecon.dir/pointcloud.cpp.i
+CMakeFiles/objRecon.dir/src/pointcloud.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/pointcloud.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.cpp > CMakeFiles/objRecon.dir/src/pointcloud.cpp.i
 
-CMakeFiles/objRecon.dir/pointcloud.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/pointcloud.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/pointcloud.cpp -o CMakeFiles/objRecon.dir/pointcloud.cpp.s
+CMakeFiles/objRecon.dir/src/pointcloud.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/pointcloud.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/pointcloud.cpp -o CMakeFiles/objRecon.dir/src/pointcloud.cpp.s
 
-CMakeFiles/objRecon.dir/planesweep.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/planesweep.cpp.o: ../planesweep.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/objRecon.dir/planesweep.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/planesweep.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/planesweep.cpp
+CMakeFiles/objRecon.dir/src/planesweep.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/planesweep.cpp.o: ../src/planesweep.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_9) "Building CXX object CMakeFiles/objRecon.dir/src/planesweep.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/planesweep.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.cpp
 
-CMakeFiles/objRecon.dir/planesweep.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/planesweep.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/planesweep.cpp > CMakeFiles/objRecon.dir/planesweep.cpp.i
+CMakeFiles/objRecon.dir/src/planesweep.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/planesweep.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.cpp > CMakeFiles/objRecon.dir/src/planesweep.cpp.i
 
-CMakeFiles/objRecon.dir/planesweep.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/planesweep.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/planesweep.cpp -o CMakeFiles/objRecon.dir/planesweep.cpp.s
+CMakeFiles/objRecon.dir/src/planesweep.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/planesweep.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/planesweep.cpp -o CMakeFiles/objRecon.dir/src/planesweep.cpp.s
 
-CMakeFiles/objRecon.dir/tvl1.cpp.o: CMakeFiles/objRecon.dir/flags.make
-CMakeFiles/objRecon.dir/tvl1.cpp.o: ../tvl1.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/objRecon.dir/tvl1.cpp.o"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/tvl1.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/tvl1.cpp
+CMakeFiles/objRecon.dir/src/tvl1.cpp.o: CMakeFiles/objRecon.dir/flags.make
+CMakeFiles/objRecon.dir/src/tvl1.cpp.o: ../src/tvl1.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=/Users/goldy/Dev/Projects/C++/objRecon/cmake-build-debug/CMakeFiles --progress-num=$(CMAKE_PROGRESS_10) "Building CXX object CMakeFiles/objRecon.dir/src/tvl1.cpp.o"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles/objRecon.dir/src/tvl1.cpp.o -c /Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.cpp
 
-CMakeFiles/objRecon.dir/tvl1.cpp.i: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/tvl1.cpp.i"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/tvl1.cpp > CMakeFiles/objRecon.dir/tvl1.cpp.i
+CMakeFiles/objRecon.dir/src/tvl1.cpp.i: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/objRecon.dir/src/tvl1.cpp.i"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E /Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.cpp > CMakeFiles/objRecon.dir/src/tvl1.cpp.i
 
-CMakeFiles/objRecon.dir/tvl1.cpp.s: cmake_force
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/tvl1.cpp.s"
-	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/tvl1.cpp -o CMakeFiles/objRecon.dir/tvl1.cpp.s
+CMakeFiles/objRecon.dir/src/tvl1.cpp.s: cmake_force
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/objRecon.dir/src/tvl1.cpp.s"
+	/usr/local/Cellar/llvm/12.0.0/bin/clang++ $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S /Users/goldy/Dev/Projects/C++/objRecon/src/tvl1.cpp -o CMakeFiles/objRecon.dir/src/tvl1.cpp.s
 
 # Object files for target objRecon
 objRecon_OBJECTS = \
-"CMakeFiles/objRecon.dir/rApp.cpp.o" \
-"CMakeFiles/objRecon.dir/rMain.cpp.o" \
-"CMakeFiles/objRecon.dir/AdjustBox.cpp.o" \
-"CMakeFiles/objRecon.dir/Rec3D.cpp.o" \
-"CMakeFiles/objRecon.dir/MarchingCubes.cpp.o" \
-"CMakeFiles/objRecon.dir/camera.cpp.o" \
-"CMakeFiles/objRecon.dir/bbox.cpp.o" \
-"CMakeFiles/objRecon.dir/pointcloud.cpp.o" \
-"CMakeFiles/objRecon.dir/planesweep.cpp.o" \
-"CMakeFiles/objRecon.dir/tvl1.cpp.o"
+"CMakeFiles/objRecon.dir/src/rApp.cpp.o" \
+"CMakeFiles/objRecon.dir/src/rMain.cpp.o" \
+"CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o" \
+"CMakeFiles/objRecon.dir/src/Rec3D.cpp.o" \
+"CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o" \
+"CMakeFiles/objRecon.dir/src/camera.cpp.o" \
+"CMakeFiles/objRecon.dir/src/bbox.cpp.o" \
+"CMakeFiles/objRecon.dir/src/pointcloud.cpp.o" \
+"CMakeFiles/objRecon.dir/src/planesweep.cpp.o" \
+"CMakeFiles/objRecon.dir/src/tvl1.cpp.o"
 
 # External object files for target objRecon
 objRecon_EXTERNAL_OBJECTS =
 
-objRecon: CMakeFiles/objRecon.dir/rApp.cpp.o
-objRecon: CMakeFiles/objRecon.dir/rMain.cpp.o
-objRecon: CMakeFiles/objRecon.dir/AdjustBox.cpp.o
-objRecon: CMakeFiles/objRecon.dir/Rec3D.cpp.o
-objRecon: CMakeFiles/objRecon.dir/MarchingCubes.cpp.o
-objRecon: CMakeFiles/objRecon.dir/camera.cpp.o
-objRecon: CMakeFiles/objRecon.dir/bbox.cpp.o
-objRecon: CMakeFiles/objRecon.dir/pointcloud.cpp.o
-objRecon: CMakeFiles/objRecon.dir/planesweep.cpp.o
-objRecon: CMakeFiles/objRecon.dir/tvl1.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/rApp.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/rMain.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/AdjustBox.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/Rec3D.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/MarchingCubes.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/camera.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/bbox.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/pointcloud.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/planesweep.cpp.o
+objRecon: CMakeFiles/objRecon.dir/src/tvl1.cpp.o
 objRecon: CMakeFiles/objRecon.dir/build.make
 objRecon: /usr/local/lib/libpcl_io.dylib
 objRecon: /usr/local/lib/libpcl_filters.dylib
